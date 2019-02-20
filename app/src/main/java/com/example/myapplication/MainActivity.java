@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
            public void onClick(View v) {
                 //write code on button press
-
+            //Put HTTP requests at this place.
             login(v);
            }
        });
