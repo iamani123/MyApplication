@@ -1,0 +1,5 @@
+language: java
+java:
+- "8"
+- "7"
+- "6"
